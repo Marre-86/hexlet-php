@@ -1,0 +1,16 @@
+{
+    "name": "art/example",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Art\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Pokhiliuk",
+            "email": "timtimoha@yandex.ru"
+        }
+    ],
+    "require": {}
+}
